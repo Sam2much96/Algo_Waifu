@@ -1,6 +1,6 @@
 # Algo Waifu
 
-ARC 69 Tokens for a series of Illustrations of an Algorand Waifu as
+A series of Illustrations and Design Documents of an Algorand Waifu
 a marketing campaign
 
 ![Screenshot](AlgowaifuRender1.png)
