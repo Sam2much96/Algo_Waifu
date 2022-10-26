@@ -1,1 +1,2 @@
 # Waifu
+![Screenshot](Algowaifu.png)
