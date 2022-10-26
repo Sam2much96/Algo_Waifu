@@ -1,7 +1,10 @@
 # Algo Waifu
-
+"""
 A series of Illustrations and Design Documents of an Algorand Waifu
-a marketing campaign
+a marketing campaign. 
+"""
+Read the Design Documents Here
+https://docs.google.com/presentation/d/1AFp-8QrrA9wNNPInw1Ys83ycOFRW0V8t8xGDDWDE0tM/edit?usp=sharing
 
 ![Screenshot](AlgowaifuRender1.png)
 ![Screenshot](AlgowaifuRender2.png)
