@@ -1,8 +1,11 @@
-# Algo Waifu
-"""
-A series of Illustrations and Design Documents of an Algorand Waifu
-a marketing campaign. 
-"""
+## Algo Waifu
+
+** Asset Index on Testnet
+ALGO waifu: 119977238
+
+""" A series of Illustrations and Design Documents of an Algorand Waifu
+""" a marketing campaign. 
+
 Read the Design Documents Here
 https://docs.google.com/presentation/d/1AFp-8QrrA9wNNPInw1Ys83ycOFRW0V8t8xGDDWDE0tM/edit?usp=sharing
 
